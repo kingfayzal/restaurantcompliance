@@ -1,10 +1,11 @@
 # Logistic Regression Model for Restaurant Compliance
 
 ## Business Case
-HealthGrade Solutions (HGS) aims to leverage predictive analytics based on the DOHMH New York City Restaurant Inspection Results dataset to address faulty restaurant compliance (low hygiene scores) with health and safety regulations. This model assists emerging restaurant owners and the Department of Health and Mental Hygiene (DOHMH) in improving compliance and ensuring public health and safety in New York City.
+HealthGrade Solutions (HGS) is a fictiouse company set up this project. It aims to leverage predictive analytics based on the DOHMH New York City Restaurant Inspection Results dataset to address faulty restaurant compliance (low hygiene scores) with health and safety regulations. This model assists emerging restaurant owners and the Department of Health and Mental Hygiene (DOHMH) in improving compliance and ensuring public health and safety in New York City.
 
 ## Stakeholders
-- **DOHMH**: Prevents foodborne illnesses, educates restaurant staff on hygiene, and assesses compliance.
+- **Authors:** This Project was done in a team as part of a collaborative project.
+-  **DOHMH**: Prevents foodborne illnesses, educates restaurant staff on hygiene, and assesses compliance.
 - **Restaurants**: Achieving high sanitation scores enhances reputation and performance.
 
 ## Project Overview
